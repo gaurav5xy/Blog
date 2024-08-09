@@ -11,7 +11,7 @@ const Navbar = () => {
       {/* Desktop Navbar */}
       <nav className="hidden mx-auto w-11/12 h-16 md:flex justify-between items-center">
         <div className="relative">
-          <h1 className="text-2xl font-bold">Gaurav Kumar</h1>
+          <h1 className="text-2xl font-bold"><Link href='/'>Gaurav Kumar</Link></h1>
           <span className="absolute inset-x-0 w-full mx-auto -bottom-px bg-gradient-to-r from-transparent via-blue-500 to-transparent h-px"></span>
         </div>
         <ul className="flex space-x-6 items-center text-base font-light text-gray-200">
