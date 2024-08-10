@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 const Footer = () => {
   return (
-    <div className=' text-sm sm:text-lg w-full flex justify-between mt-5 text-center py-5 font-light text-neutral-400'>
+    <div className=' text-xs sm:text-lg w-full flex justify-between mt-5 text-center py-5 font-light text-neutral-400'>
         <ul className=' flex items-center gap-2 sm:gap-8'>
             <li><Link href='/'>Twitter </Link></li>
             <li><Link href='/'>LinkedIn </Link></li>

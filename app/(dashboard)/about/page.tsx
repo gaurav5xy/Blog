@@ -15,7 +15,7 @@ const About = () => {
       <div className=" px-5 sm:px-16">
         <div className=" w-full flex flex-col gap-8 items-center justify-center">
           <Image
-            src="/image/about/image.png"
+            src="/image/about/about.png"
             alt="img"
             width={1216}
             height={556}

@@ -41,10 +41,10 @@ export default function Home() {
         
         <div className=" w-full h-px bg-white mt-5"></div>
 
-        <div className=" flex justify-between my-5 font-light">
+        <div className=" text-sm sm:text-lg flex justify-between my-5 font-light">
           <span>Previous</span>
           <div>
-            <ul className=" flex gap-5">
+            <ul className=" flex gap-3 sm:gap-5">
               <li>1</li>
               <li>2</li>
               <li>3</li>
